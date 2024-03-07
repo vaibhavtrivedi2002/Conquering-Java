@@ -1,3 +1,4 @@
+//this program concats two strings using '+' operator
 public class concat {
   public static void main(String[] args) {
     String shabd1 = "hello";
