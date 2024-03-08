@@ -1,3 +1,4 @@
+//this program input from user and identifies whether the number is prime or non-prime
 import java.util.*;
 public class prime {
     public static boolean isPrime(int num) {
