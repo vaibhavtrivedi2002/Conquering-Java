@@ -1,5 +1,5 @@
+//this program prints fabonacci series using loop
 public class fabonacci {
-    
     public static void main(String[] args) {
         int count = 10; // Number of terms to print
         int n1 = 0, n2 = 1, n3;
