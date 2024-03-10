@@ -1,5 +1,5 @@
+//this program prints square of the number using two methods(multiplication & maths function)
 import java.util.Scanner;
-
 public class sqr {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
