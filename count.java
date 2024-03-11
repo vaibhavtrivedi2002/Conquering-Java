@@ -1,3 +1,4 @@
+//this program counts number of elements in an array
 public class count {
 
     public static void main(String[] args) {
