@@ -1,3 +1,4 @@
+//this program compares value of two numbera(less,great or equal)
 import java.util.Scanner;
 
 public class lessgreat {
