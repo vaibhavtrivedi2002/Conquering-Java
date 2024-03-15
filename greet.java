@@ -1,3 +1,4 @@
+//this program prints Namaste, Hello, Bonjour using if/else and switch cases
 import java.util.*;
 public class greet {
     public static void main(String[] args) {
