@@ -1,3 +1,4 @@
+//this program counts total words in a sentence
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
