@@ -1,3 +1,4 @@
+//this program performs mathematical operations(add,subtract,divide,multiply) using switch cases
 import java.util.Scanner;
 
 public class calculator {
