@@ -1,5 +1,5 @@
+//this program checks occurrence of a digit in an array
 public class occurrence{
-
     public static void main(String[] args) {
         int[] arr = {1, 2, 2, 3, 1, 4, 2};
         int elementToFind = 2;
