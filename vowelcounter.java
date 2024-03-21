@@ -1,3 +1,4 @@
+//this program counts number of vowels in a string given by user
 import java.util.Scanner;
 
 public class vowelcounter {
