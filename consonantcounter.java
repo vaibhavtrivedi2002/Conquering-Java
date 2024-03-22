@@ -1,3 +1,4 @@
+//this program counts the number of consonants in the string given by user
 import java.util.Scanner;
 
 public class consonantcounter {
