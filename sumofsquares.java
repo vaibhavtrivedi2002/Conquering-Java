@@ -1,3 +1,4 @@
+//this program calculates the sum of squares of starting two elements in an array
 public class sumofsquares {
 
     public static void main(String[] args) {
