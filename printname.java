@@ -1,3 +1,4 @@
+//this program prints your name letter by letter
 import java.util.Scanner;
 
 public class printname {
