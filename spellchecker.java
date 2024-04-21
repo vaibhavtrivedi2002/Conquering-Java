@@ -1,3 +1,4 @@
+//this program tells you the given spelling is correct or incorrect 
 import java.util.Scanner;
 
 public class spellchecker {
