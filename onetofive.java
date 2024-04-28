@@ -1,4 +1,4 @@
-public class onetofive.java{
+public class onetofive{
 
     public static void main(String[] args) throws InterruptedException {
         for (int i = 1; i <= 5; i++) {
