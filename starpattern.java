@@ -1,3 +1,4 @@
+//this program creates a star pattern using for loop
 public class starpattern {
 
   public static void main(String[] args) {
