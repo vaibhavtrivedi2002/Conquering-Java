@@ -1,4 +1,4 @@
-<h1>JAVA</h1><hr><br>
+<h1>JAVA</h1><hr>
 Best Java Learning Platforms are listed below;<br>
 1. https://www.geeksforgeeks.org/java/<br>
 2. https://www.w3schools.com/java/<br>
