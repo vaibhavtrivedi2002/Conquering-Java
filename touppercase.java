@@ -1,3 +1,4 @@
+//this program converts given string to uppercase letters
 import java.util.Scanner;
 
 public class touppercase{
