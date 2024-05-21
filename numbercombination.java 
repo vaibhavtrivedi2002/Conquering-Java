@@ -1,7 +1,11 @@
-/*this program prints all the combinations from the given digits*/
-
+/**
+ * This program takes three numbers as input from the user and prints all possible combinations of those numbers.
+ * 
+ * The program utilizes a method `printCombinations` to iterate through all permutations of the three input numbers and print each combination in a specific order.
+ */
 import java.util.Scanner;
-public class numbercombinations{
+
+public class NumberCombinations {
 
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
