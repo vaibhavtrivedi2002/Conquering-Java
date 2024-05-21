@@ -1,4 +1,3 @@
-/*This program takes three numbers as input from the user and prints all possible combinations of those numbers.*/
 import java.util.Scanner;
 
 public class numbercombinations {
