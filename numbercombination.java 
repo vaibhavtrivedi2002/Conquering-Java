@@ -1,7 +1,6 @@
 /*this program prints all the combinations from the given digits*/
 
 import java.util.Scanner;
-
 public class numbercombinations{
 
   public static void main(String[] args) {
