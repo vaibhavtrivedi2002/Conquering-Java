@@ -6,7 +6,7 @@ public class instance{
   }
 
   public static void main(String[] args) {
-    InstanceMethodExample obj = new InstanceMethodExample();
+    instance obj = new instance();
     int result = obj.add(12, 13);
     System.out.println("The sum is: " + result);
   }
