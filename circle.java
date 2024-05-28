@@ -1,4 +1,4 @@
-public class circle{
+public class circlerad{
 
   public static void main(String[] args) {
     double radius = 5;
