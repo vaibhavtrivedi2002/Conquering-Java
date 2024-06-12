@@ -1,6 +1,6 @@
 import java.io.IOException;
 
-public class Shutdown {
+public class shutdown {
 
     public static void main(String[] args) throws IOException {
         Runtime runtime = Runtime.getRuntime();
