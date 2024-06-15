@@ -1,3 +1,4 @@
+//this program shows abstraction in java
 abstract class abstraction {
   public abstract void makeSound();
 }
